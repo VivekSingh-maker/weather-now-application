@@ -35,7 +35,7 @@ The goal of the Weather Now Application is to build a user-friendly web app that
 
 1)Easy Search: Users can enter a city name to quickly get weather information.
 
-2)Current Weather Data: The app shows real-time weather details, like temperature, humidity, and weather conditions, using the OpenWeatherMap API.
+2)Current Weather Data: The app shows real-time weather details, like temperature, humidity, and weather conditions, using the API.
 
 3)Temperature Units: Users can switch between Celsius and Fahrenheit to view temperatures in their preferred unit.
 
