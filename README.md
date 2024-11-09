@@ -292,7 +292,7 @@ City Input: Users enter a city name to fetch weather data.
 
 Error Handling: If the city is not found, an error message is displayed.
 
-API Call: It fetches weather data from OpenWeatherMap API based on the city name.
+API Call: It fetches weather data from API based on the city name.
 
 ### 3)InfoBox.tsx:
 ```js
